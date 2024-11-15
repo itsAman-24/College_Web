@@ -50,7 +50,7 @@ nav ul li {
 
 @media (max-width: 850px) {
     nav {
-        padding: 8px 50px !important;
+        padding: 10px 15px !important;
     }
 
     nav ul {
