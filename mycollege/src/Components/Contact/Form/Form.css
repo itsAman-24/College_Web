@@ -1,0 +1,23 @@
+.form input, .form textarea{
+    display: block;
+    width: 100%;
+    background: #EBECFE;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+    border-radius: 10px;
+}
+
+.form label {
+    font-size: 17px;
+    color: rgb(41, 40, 40);
+    padding: 10px;
+}
+
+span {
+    display: block;
+    margin: 10px 0;
+}
